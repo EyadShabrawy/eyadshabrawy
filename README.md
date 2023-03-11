@@ -30,5 +30,6 @@ If you want to connect with me, feel free to reach out via LinkedIn or email.
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=black&color=blue)
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=black&color=blue)
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-HTML/CSS-blue?style=flat-square&logo=html5&logoColor=white&labelColor=black&color=blue)
+![Your Name's GitHub Badges](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=Javascript&logoColor=white&labelColor=black&color=blue)
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white&labelColor=black&color=blue)
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white&labelColor=black&color=blue)
