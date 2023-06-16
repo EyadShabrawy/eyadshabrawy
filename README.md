@@ -11,7 +11,7 @@
 </p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-## About Me 🚀
+## 🚀 About Me :
 
 I am a passionate computer science student who loves coding and building software projects. I have experience working with various programming languages, including Python, C++, JavaScript and more and I am always eager to learn new technologies and implement them in my projects. I enjoy working on challenging projects that require problem-solving and critical thinking skills. 
 
@@ -56,12 +56,12 @@ If you want to connect with me, feel free to reach out via LinkedIn or email.
     </a> 
 </p>
 
-### Contact Me 📫
+## 📫 Contact Me : 
 
 - LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/eyad-elshabrawy/)
 - Email: [Email Address](mailto:eyad_elshabrawy@outlook.com)
 
-### Stats 📈
+## 📈 Stats :
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyadshabrawy&count_private=true&show_icons=true&theme=radical)
 
