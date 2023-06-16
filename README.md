@@ -59,16 +59,15 @@ If you want to connect with me, feel free to reach out via LinkedIn or email.
     </a> 
 </p>
 
-## 📫 Contact Me : 
 
-- LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/eyad-elshabrawy/)
-- Email: [Email Address](mailto:eyad_elshabrawy@outlook.com)
 
 ## 📈 Stats :
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyadshabrawy&count_private=true&show_icons=true&theme=radical)
+![Eyad Shabrawy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyadshabrawy&count_private=true&show_icons=true&theme=radical)
+![Eyad Shabrawy's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=eyadshabrawy&theme=tokyonight)
 
-### Badges 🏆
+
+## 🏆 Badges : 
 
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&labelColor=black&color=blue)
 ![Your Name's GitHub Badges](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=black&color=blue)
