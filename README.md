@@ -1,4 +1,14 @@
-# Hi there 👋, I'm Eyad
+<h1 align="center"> Hi there 👋, I'm Eyad </h1>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+
+## 💡 Connect with me :
+<p align="left"> 
+<a href="https://www.linkedin.com/in/eyad-shabrawy"><img src="https://img.shields.io/badge/-Eyad%20Shabrawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="http:/eyadshabrawy.github.io/" target="_blank"><img src="https://img.shields.io/website?label=eyadshabrawy.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Feyadshabrawy.github.io" alt="eyadshabrawy.github.io" /></a>&nbsp
+   <a href="mailto:eyad_elshabrawy@outlook.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eyad_elshabrawy@gmail.com" />
+  </a>
+</p>
 
 ### About Me 🚀
 
@@ -6,6 +16,7 @@ I am a passionate computer science student who loves coding and building softwar
 
 If you want to connect with me, feel free to reach out via LinkedIn or email.
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### Skills 🤹‍♀️
 
